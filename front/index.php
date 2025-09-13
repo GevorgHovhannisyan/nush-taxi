@@ -107,7 +107,7 @@ $conn->close();
 </head>
 <body>
   <div class="form-container">
-    <h2>Նուշ տաքսոպարկ</h2>
+    <h2>Նուշ</h2>
     <form action="" method="POST">
       <label for="userId">Անուն Ազգանուն:</label>
       <input type="text" id="userId" name="userId" required>
